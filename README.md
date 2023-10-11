@@ -1,6 +1,8 @@
 # ARGB-LS-Controller
 Circuit diagram, PCB layout and code for an ATTiny85 powered, addressable RGB LED strip controller.
 
+![board](Resources/board.png)
+
 # Repository organization
 
 The circuit and board were developed using AutoDesk EAGLE and all files are available in the "Hardware files" folder. Schematic and Board layout PDFs can be found in the "Resources" folder. Controller code can be found in the "Code" folder.
